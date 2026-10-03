@@ -2,19 +2,23 @@
 
 # Quantum Shield
 
+**Website risk checks. Multichain wallet insights. Evidence you can inspect.**
+
+[Website](https://quantumsshield.com/) · [X](https://x.com/quantumsshield) · [Telegram Chat](https://t.me/QuntumsShield) · [Telegram Channel](https://t.me/QuntumShield)
+
 Public tools for examining suspicious websites and understanding on-chain wallet data.
 
 [Use Quantum Shield](https://quantumsshield.com/) · [Safety Center](https://quantumsshield.com/safety) · [Wallet tools](https://quantumsshield.com/tools) · [White paper](WHITEPAPER.md)
 
 ## What you can use today
 
-| Product | What it does |
+| Live product | What it does |
 | --- | --- |
-| Website Code + AI Review | Reviews a bounded selection of public website source for warning signs, with evidence and limitations. |
-| Domain Reputation | Checks reported threats and suspicious URL patterns. |
-| Wallet Scanner | Reads native balance, account type, nonce, and source-block evidence. |
-| Token Check | Reads contract-reported token metadata and supply. |
-| Wallet Compare | Compares two addresses at the same block on one selected network. |
+| [Website Code + AI Review](https://quantumsshield.com/safety#deep) | Reviews a bounded selection of public website source for warning signs, with evidence and limitations. |
+| [Domain Reputation](https://quantumsshield.com/safety) | Checks reported threats and suspicious URL patterns. |
+| [Wallet Scanner](https://quantumsshield.com/tools?product=wallet) | Reads native balance, account type, nonce, and source-block evidence. |
+| [Token Check](https://quantumsshield.com/tools?product=token) | Reads contract-reported token metadata and supply. |
+| [Wallet Compare](https://quantumsshield.com/tools?product=compare) | Compares two addresses at the same block on one selected network. |
 | Wallet Activity | Displays recent Ethereum and Base explorer activity with available public labels. |
 | Image File Check | Checks supported image file headers locally; it is not an antivirus scan. |
 
@@ -45,3 +49,9 @@ For ordinary product feedback, describe the page, steps, and expected result. Ne
 ## Public code example
 
 [Read-only wallet API example](example-wallet.mjs) demonstrates using the public service with Node.js 22 or newer. No keys or wallet signatures are needed. It is not the backend source.
+
+## Official community
+
+[Website](https://quantumsshield.com/) · [X](https://x.com/quantumsshield) · [Telegram Chat](https://t.me/QuntumsShield) · [Telegram Channel](https://t.me/QuntumShield)
+
+Use these official channels for product updates. No token contract is announced in this repository.
